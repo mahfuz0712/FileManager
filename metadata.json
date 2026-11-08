@@ -1,0 +1,10 @@
+{
+  "name": "File Manager",
+  "description": "Sci-fi HUD file manager for Android: browse, copy, move, zip, recycle bin, large-file and junk finder, Wi-Fi transfer.",
+  "version": "1.0.0",
+  "ageRating": "3+",
+  "type": "app",
+  "containsAds": false,
+  "category": "Tools",
+  "author": "Mohammad Mahfuz Rahman"
+}
